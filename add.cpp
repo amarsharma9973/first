@@ -30,6 +30,7 @@ int main()
     float a,b;
     cout<<"Enter any two number"<<endl;
     cin>>a>>b;
+    cout<<"Sum of two number is: ";
     cout<<add(a,b);
     return 0;
 }
